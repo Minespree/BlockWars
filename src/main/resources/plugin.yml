@@ -1,0 +1,8 @@
+name: Block
+main: net.minespree.block.BlockPlugin
+version: ${gitCommit}
+softdepend: [Rise, Wizard]
+commands:
+  blockmap:
+    description: Configure ProjectBlock maps.
+    permission: block.configure
