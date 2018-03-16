@@ -24,7 +24,7 @@ You can find detailed installation instructions for these tools on the [Getting 
 
 ## Getting started
 
-This project depends on these modules, so they should also be built and placed on your `plugins/` directory before running Feather:
+This project depends on these modules, so they should also be built and placed on your `plugins/` directory before running BlockWars:
 
 * [Feather](https://github.com/Minespree/Feather)
 * [Rise](https://github.com/Minespree/Rise)
